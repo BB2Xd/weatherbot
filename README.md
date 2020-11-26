@@ -5,7 +5,7 @@ A simple Telegram bot, in PHP, To Featch The Weather Info.
 # DEPLOY
 YOU CAN SIMPLY DEPLOY ON HEROKU BY CLICKING THE BUTTON BELOW
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Benchamxd/Weatherbot/tree/main)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BB2Xd/weatherbot/tree/bin-q-j-w)
 
 AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<your bot token>/setwebhook?url=<Heroku site link>/index.php``
 
